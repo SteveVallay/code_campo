@@ -6,7 +6,7 @@ It's the source of http://codecampo.com , a light weight bbs for developer.
 
 * ruby 1.9.3
 * rails 3.2.3
-* mongodb 1.8+
+* mongodb 1.8+ ( run `apt-get install mongodb` to install mongodb if you don't have it)
 * nodejs (option for linux)
 
 ## Setup
